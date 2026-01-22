@@ -46,10 +46,7 @@ The analysis focuses on **decision support**, not forecasting.
 
 *Snapshot supporting account prioritisation and revenue risk discussions.*
 
-## Executive summary artefact
-A decision-focused summary supporting account prioritisation and revenue risk discussions.
-
-- [View executive summary (PDF)](executive-summary/account_portfolio_&_revenue_decision_support_executive_summary.pdf)
+executive-summary/Account Portfolio & Revenue Decision Support.pdf
 
 ## Executive summary artefact
 A decision-focused summary supporting account prioritisation and revenue risk discussions.
