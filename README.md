@@ -49,7 +49,7 @@ The analysis focuses on **decision support**, not forecasting.
 ## Executive summary artefact
 A C-suite–ready decision brief translating portfolio analysis into account prioritisation and revenue risk actions.
 
-- [View executive summary (PDF)](executive-summary/account_portfolio_revenue_decision_support_executive_summary.pdf)
+- [View executive summary (PDF)](executive-summary/account_portfolio_revenue_decision_support_executive_summary.pdf.pdf)
 
 ## Key insights
 - A small proportion of accounts typically drive a disproportionate share of revenue
