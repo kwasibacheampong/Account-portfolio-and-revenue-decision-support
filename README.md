@@ -4,6 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-Analysis-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Querying-lightgrey)
 
+## How to navigate this repository
+- The README provides the business context, approach, insights, and recommendations
+- The analysis folder contains the supporting notebooks or scripts
+- The visuals folder includes stakeholder-facing snapshots used to support decisions
+
 ## Overview
 This project analyses an account portfolio to support revenue-focused decision-making within an account management context. The analysis supports account management teams by providing revenue-focused portfolio analysis and practical decision support.
 
