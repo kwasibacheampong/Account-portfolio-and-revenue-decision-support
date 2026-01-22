@@ -40,6 +40,12 @@ Assumptions are clearly stated to reflect realistic business constraints rather 
 
 The analysis focuses on **decision support**, not forecasting.
 
+## Insight snapshot
+
+![Insight snapshot](visuals/insight_snapshot.png)
+
+*Snapshot supporting account prioritisation and revenue risk discussions.*
+
 ## Key insights
 - A small proportion of accounts typically drive a disproportionate share of revenue
 - Some high-effort accounts deliver limited commercial return
