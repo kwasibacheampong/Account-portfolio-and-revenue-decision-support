@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Querying-lightgrey)
 
 ## Overview
-This project analyses an account portfolio to support revenue-focused decision-making within an account management context.
+This project analyses an account portfolio to support revenue-focused decision-making within an account management context. The analysis supports account management teams by providing revenue-focused portfolio analysis and practical decision support.
 
 The objective is to help decision-makers understand where to prioritise effort, manage risk, and identify opportunities for sustainable growth.
 
