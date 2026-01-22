@@ -45,6 +45,12 @@ The analysis focuses on **decision support**, not forecasting.
 - Review low-return accounts for restructuring or service model changes
 - Use portfolio-level metrics to support resource planning decisions
 
+## Skills demonstrated
+- Business analysis and decision framing
+- Data analysis using Python and SQL
+- Commercial performance evaluation
+- Stakeholder-focused insight communication
+
 ## Tools used
 - SQL and Python for analysis
 - Excel-style portfolio reasoning
