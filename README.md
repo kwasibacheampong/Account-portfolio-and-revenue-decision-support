@@ -49,7 +49,7 @@ The analysis focuses on **decision support**, not forecasting.
 ## Executive summary artefact
 A decision-focused summary supporting account prioritisation and revenue risk discussions.
 
-- 
+- Account-portfolio-and-revenue-decision-support/blob/main/executive-summary/Account%20Portfolio%20%26%20Revenue%20Decision%20Support.pdf
 
 ## Key insights
 - A small proportion of accounts typically drive a disproportionate share of revenue
